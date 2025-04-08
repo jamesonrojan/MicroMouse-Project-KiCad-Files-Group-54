@@ -1,0 +1,51 @@
+### Footprint positions - created on 2025-03-31T04:40:08+0200 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                            Package                                                                   PosX       PosY       Rot  Side
+C1        0.1µ                          C_0603_1608Metric                                                     146.5000   -98.9900    0.0000  top
+C2        0.1U                           C_0603_1608Metric                                                     115.1125  -113.0250    0.0000  top
+C5        10µ                           C_0603_1608Metric                                                     115.1125  -115.5350    0.0000  top
+C6        10µ                           C_0603_1608Metric                                                     119.7025   -83.0000    0.0000  top
+C7        10µ                           C_0603_1608Metric                                                     142.7650  -105.5000    0.0000  top
+C8        4.7µ                          C_0603_1608Metric                                                     152.5000   -89.2800    0.0000  top
+C9        4.7µ                          C_0603_1608Metric                                                     152.7750   -84.5000    0.0000  top
+C10       10µ                           C_0603_1608Metric                                                     110.0000   -94.5000    0.0000  top
+J1        Conn_01x02                     JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal                               104.5000  -114.5500    0.0000  top
+J2        Conn_02x16_Top_Bottom          PinHeader_2x16_P2.00mm_Vertical                                       113.0000  -123.0000   90.0000  top
+J3        USB_C_Receptacle_PowerOnly_6P  USB_C_Receptacle_CNCTech_C-ARA1-AK51X                                  93.6000   -84.8000    0.0000  top
+L1        227µ                          L_0603_1608Metric                                                     123.7125   -83.0000    0.0000  top
+Q1        AO3401CI-ES                    SOT-23                                                                121.0625   -91.5000    0.0000  top
+Q3        2N7002                         SOT-23                                                                107.0000  -103.0000    0.0000  top
+R1        0.5                            C_0603_1608Metric                                                     146.7750  -105.5000    0.0000  top
+R2        0.5                            R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                       90.1900   -94.5000    0.0000  top
+R3        0.5                            R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                       90.3800   -98.3000    0.0000  top
+R4        0.5                            R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                       90.3800  -102.3500    0.0000  top
+R5        5.1K                           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                       90.3800  -106.4000    0.0000  top
+R6        5.1K                           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                       90.3800  -110.4500    0.0000  top
+R7        1M                             R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                       90.3800  -114.5000    0.0000  top
+R8        10K                            R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                       90.1900  -119.0000    0.0000  top
+R9        0.15                           R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm                             131.9800   -83.1350    0.0000  top
+R10       0.5                            R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm                             138.5000   -94.0000    0.0000  top
+R11       6K                             R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                      157.8800   -83.4000    0.0000  top
+R12       2K                             R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                      157.6900   -88.3500    0.0000  top
+R13       4K                             R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                      157.6900   -92.4000    0.0000  top
+R14       100K                           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                      157.6900   -96.4500    0.0000  top
+R15       100K                           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                      157.6900  -100.5000    0.0000  top
+R16       4.7K                           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                      157.6900  -104.5500    0.0000  top
+R17       4.7K                           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                      157.6900  -108.6000    0.0000  top
+SW1       SW_Wuerth_450301014042         SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm                         120.4600  -106.0000    0.0000  top
+U1        INA219AIDCNR                   SOT-23-8                                                              142.3625   -88.5250    0.0000  top
+U2        DRV8833PWP                     HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias   115.3625  -113.0250    0.0000  top
+U3        DRV8833PWP                     HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias   142.7500  -113.5000  180.0000  top
+U4        BQ24075RGTR                    VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm                                  148.0625   -93.2500    0.0000  top
+U5        TPS25730DREFR                  Texas_REF0038A_WQFN-38-2EP_6x4mm_P0.4                                 115.2700   -99.3100    0.0000  top
+U5        AMS1117CD-3.3                  TO-252-3_TabPin2                                                      135.0650  -103.4750    0.0000  top
+U6        TPS22929DDBVR                  SOT-23-6                                                              142.6375   -80.9500    0.0000  top
+U6        TP4056-42-ESOP8                SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias                 127.7000  -113.2000    0.0000  top
+U7        AP22804AW5                     SOT-23-5                                                              130.0000   -93.5000    0.0000  top
+U7        TPS62160DSGR                   WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias                       142.0000   -86.0000    0.0000  top
+U8        CH224K                         SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm                                106.3625   -83.0000    0.0000  top
+U9        MT3608L                        SOT-23-6                                                              123.3625   -99.0000    0.0000  top
+U10       AP22804AW5                     SOT-23-5                                                              105.0000   -96.5000    0.0000  top
+## End

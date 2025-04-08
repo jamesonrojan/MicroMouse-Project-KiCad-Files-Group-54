@@ -1,0 +1,45 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Cu.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Cu.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Paste.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Paste.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Mask.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Mask.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-job.gbrjob'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Cu.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Cu.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Paste.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Paste.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Mask.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Mask.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-job.gbrjob'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Cu.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Cu.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Paste.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Paste.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Mask.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Mask.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-job.gbrjob'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Cu.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Cu.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Paste.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Paste.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-F_Mask.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-B_Mask.gbr'.
+Plotted to 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\thabo\Documents\2025\EEE3088F (DESIGN)\design_project\design_project-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
